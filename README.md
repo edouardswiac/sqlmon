@@ -1,5 +1,5 @@
 # sqlmon
-sqlmon allows anyone who knows SQL, engineers, product managers, devops, systems administrators, analysts... to surface business insights in Slack channels and generate alerts via Pagerduty. In a nutshell, sqlmon is a service that runs user-defined SQL queries on a cron schedule.
+sqlmon allows anyone who knows SQL, engineers, product managers, devops, systems administrators, analysts... to surface business insights in Slack channels and generate alerts via Pagerduty. In a nutshell, sqlmon is a service that runs user-defined SQL queries on a cron schedule, and transmit the output to Slack and/or PagerDuty.
 
 As an example, a fledgling e-commerce company could use the following sqlmon configuration:
 
